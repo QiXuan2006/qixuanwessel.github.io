@@ -1,5 +1,3 @@
 # qixuanwessel.github.io
-
-Dit is mijn nieuewe website, hier ga ik later van alles bouwen
-
-:rocket:
+Hallo ik heet Qi Xuan ik ben 13 jaar oud.
+Mijn hobbys zijn lezen, Minecraft spelen, schaken en met mijn lego spelen ik heb heel veel zin om hier me te progameren.
