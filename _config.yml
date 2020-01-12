@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+
+# Site settings
+encoding: utf-8 # Make sure the encoding is right
+lang: nl-NL # Set the site language
+title: "Qi Xuans website" # Site name or title, also used in jekyll-seo-tag
