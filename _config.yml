@@ -1,16 +1,1 @@
 theme: jekyll-theme-cayman
-
-encoding: utf-8 # Make sure the encoding is right
-lang: nl-NL # Set the site language
-title: "QiXuanWessel.github.io" # Site name or title, also used in jekyll-seo-tag
-description: "Mijn persoonlijke website ...
-url: "https://qixuanwessel.github.io" # Site url, also used in jekyll-seo-tag
-baseurl: ""
-repo: "hhttps://github.com/QiXuanWessel/qixuanwessel.github.io"
-email: "qixuan@blijblijblij.com"
-
-plugins:
-- jekyll-sitemap
-- jekyll-mentions
-- jekyll-paginate
-- jekyll-seo-tag
