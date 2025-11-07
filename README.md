@@ -1,4 +1,6 @@
 ![GitHub Logo](/img/qixuan.png)
+![GitHub Logo](/img/wallpaper_minecraft_15th-anniversary_2560x1440.png)
+
 
 Hallo ik heet Qi Xuan. Ik ben 15 jaar en ik ben geboren op 18 juni 2006. Ik ben geboren in China en ik kan een beetje Chinees spreken. Ik heb een broertje een hondje en 20 vissen. Mijn hondje heet Yoerie. Mijn hobbys zijn Minecraft spelen, met mijn lego spelen, lezen en schaken. Ik hou veel van moppen vertelen. 🤣🙃😁🙃 
 Momenteel woon ik in OOstburg en heb ik vorig jaar mijn Havo examen gehaald
